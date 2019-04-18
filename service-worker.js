@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/desert-buffet/precache-manifest.19ebf01037aa4c1cee4fb2a8acb942ef.js"
+  "/dessert-buffet/precache-manifest.6c36dbe024f8e11b562f8b8fb9579c59.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/desert-buffet/index.html", {
+workbox.routing.registerNavigationRoute("/dessert-buffet/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
