@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dmudy/desert-buffet.git/precache-manifest.8d403d8fa4d35d69937b29ca0a114f5f.js"
+  "/desert-buffet/precache-manifest.19ebf01037aa4c1cee4fb2a8acb942ef.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dmudy/desert-buffet.git/index.html", {
+workbox.routing.registerNavigationRoute("/desert-buffet/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
