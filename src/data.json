@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/cake.jpg",
+    "image": "./assets/images/cake.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/cheesecake.jpg",
+    "image": "./assets/images/cheesecake.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/pudding.jpg",
+    "image": "./assets/images/pudding.jpg",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/cookie.jpg",
+    "image": "./assets/images/cookie.jpg",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/jello.jpg",
+    "image": "./assets/images/jello.jpg",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/cupcake.jpg",
+    "image": "./assets/images/cupcake.jpg",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/milkshake.jpg",
+    "image": "./assets/images/milkshake.jpg",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/churros.png",
+    "image": "./assets/images/churros.png",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/sherbet.png",
+    "image": "./assets/images/sherbet.png",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/creamPuffs.jpg",
+    "image": "./assets/images/creamPuffs.jpg",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/cremeBrulee.jpg",
+    "image": "./assets/images/cremeBrulee.jpg",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/brownie.jpg",
+    "image": "./assets/images/brownie.jpg",
     "clicked": false
   }
 ]
